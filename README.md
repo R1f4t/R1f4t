@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R1f4t
 - 👀 I’m interested in developing.
-- 🌱 I’m currently learning .NET.
+- 🌱 I’m currently learning JAVA with Spring.
 - 💞️ I’m looking forward to getting involved in practical works. 
 - 📫 How to reach me? -> mail: rifathossain15.in@gmail.com
 
